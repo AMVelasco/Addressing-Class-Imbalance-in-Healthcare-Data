@@ -1,3 +1,16 @@
 This repository contains the code used to obtain the results presented in the article "Addressing Class Imbalance in Healthcare Data: Machine Learning Solutions for Age-Related Macular Degeneration and Preeclampsia."
 
+The code has been divided into files according to the objective sought in each case.
+The file name indicates the task performed in the code it contains.
+In this way, nine files have been added. In all cases, the code is programmed in R.
+
+Preprocessing_Preec.R
+RFE-model-roc.R
+RFE-model-roc.R_Preec.r
+SMOTE_CODE_R.R
+SMOTE_CODE_R_preeclamp.R
+VarImp3_preeclampsia.R
+clasificacion.r
+ensambles.R
+ensambles_Preec.R
 
